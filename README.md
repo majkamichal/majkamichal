@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michal, a data enthusiast with a background in statistics. I pursued my academic interests at the University of Vienna and Duke University, where I explored statistical analysis and programming.
+I'm Michal, a data and open-source enthusiast with a background in statistics. I pursued my academic interests at the University of Vienna and Duke University, where I explored statistical analysis and programming.
 
 #### Open source contributions
 
