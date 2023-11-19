@@ -8,7 +8,7 @@ In my free time, I engage in both independent open-source software development, 
 
 I'm dedicated to open source, driven by the belief in the benefits of collaborative development, transparent sharing of knowledge in the software community, and the personal growth that comes with it.
 
-One of the interesting aspects of my journey has been the growing popularity of the [naivebayes](https://github.com/majkamichal/naivebayes) R package I developed, reaching over 300K downloads and being used in the actual high quality [scientific research](https://www.nature.com/articles/s41698-022-00322-3). It's rewarding to see it becoming a valuable tool in the R community - particularly for those diving into machine learning as well as in the scientific community. 
+One of the interesting aspects of my journey has been the growing popularity of the [naivebayes](https://github.com/majkamichal/naivebayes) R package I developed, reaching over 300K downloads and being used in the actual high quality [scientific research](https://www.nature.com/articles/s41698-022-00322-3). It's rewarding to see it becoming a valuable tool in the R community - particularly for those diving into machine learning - as well as in the scientific community. 
 
 #### I am currently working on...
 
