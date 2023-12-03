@@ -30,7 +30,7 @@ I am actively engaged in the development of [easyPlot](https://github.com/majkam
 
 The development of `easyPlot` is an ongoing process, and I am committed to enhancing its functionality and user experience. User feedback will be incorporated to ensure `easyPlot` remains a valuable asset in the data visualization toolbox.
 
-Take a look at easyPlot and feel welcome to contribute. We're building this tool together to make data visualization more accessible.
+Take a look at [easyPlot](https://github.com/majkamichal/easyPlot) and feel welcome to contribute. We're building this tool together to make data visualization more accessible.
 
 ------------------------------------
 
