@@ -14,8 +14,6 @@ One of the interesting aspects of my journey has been the growing popularity of 
 
 I am actively engaged in the development of [easyPlot](https://github.com/majkamichal/easyPlot), an intuitive graphical user interface (GUI) meticulously designed for [ggplot2](https://ggplot2.tidyverse.org). `easyPlot` serves as a powerful tool, allowing users to effortlessly create four fundamental types of graphs — scatterplots, histograms, boxplots, and bar charts — with just a few clicks.
 
-###### Key Features and Advantages:
-
 ***Key Features and Advantages:***
 
 - **Seamless Data Upload:** `easyPlot` simplifies the data import process by supporting various file formats, including `csv`, `xlsx`, and `txt`. This ensures a seamless experience for users, allowing them to start visualizing their data without unnecessary hurdles.
@@ -28,7 +26,7 @@ I am actively engaged in the development of [easyPlot](https://github.com/majkam
 
 - **Reproducibility:** One of the standout features of `easyPlot` is its ability to generate reproducible code. The tool automatically generates `R code` corresponding to the created plots, allowing users to reproduce their visualizations easily or integrate them into their R scripts and reports.
 
-###### Future Development:
+**Future Development:**
 
 The development of `easyPlot` is an ongoing process, and I am committed to enhancing its functionality and user experience. User feedback will be incorporated to ensure `easyPlot` remains a valuable asset in the data visualization toolbox.
 
